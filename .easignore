@@ -1,0 +1,7 @@
+.cache
+.expo
+dist
+node_modules/.cache
+*.log
+.git
+attached_assets

@@ -1,0 +1,15 @@
+export default {
+  background: "#FFFFFF",
+  text: "#1A1A1A",
+  primaryAccent: "#FFD700",
+  secondaryAccent: "#FFC107",
+  border: "#F0F0F0",
+  textSecondary: "#666666",
+  inputBackground: "#FAFAFA",
+  cardBackground: "#FAFAFA",
+  card: "#FAFAFA",
+  success: "#FFD700",
+  error: "#FF3B30",
+  warning: "#FFC107",
+  info: "#FFD700",
+};
